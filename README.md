@@ -1,7 +1,5 @@
 # Hi! 👋
 
-I am addicted to solving problems for developers and individuals, creating tech tools that make a meaningful impact. With a mix of professionalism, empathy, and a touch of humor, I have been approaching challenges with enthusiasm and dedication. My mantra is to keep always learning and discovering so that I will stay at the forefront of technology to deliver cutting-edge solutions, solving efficiently client issues. 
-
 My current focus is creating tools that make a difference for people. From creating software useful to clients to creating software for developers.
 
 > Be kind, be useful, and be happy. That is all that matters.
